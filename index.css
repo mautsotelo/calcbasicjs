@@ -1,0 +1,19 @@
+form {
+    border: 1px solid black;
+    width: 228px;
+}
+
+[name='visor'] {
+    font-size: 28px;
+    margin: 2px;
+    width: 220px;
+    height: 30px;
+    text-align: right;
+}
+
+[type='button'] {
+    margin: 2px;
+    height: 50px;
+    width: 50px;
+    font-size: 20px;
+}
